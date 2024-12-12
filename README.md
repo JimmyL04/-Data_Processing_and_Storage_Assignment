@@ -29,4 +29,5 @@ Run the script:
 python3 data_processing.py  
 
 
-Improving This Assignment
+Improving This Assignment 
+I think having some method of testing out code to ensure that the funcitons we made worked would be good to add to the assignment. This could look like adding descriptions of test cases with expected outputs. For my own project, I tried writing tests cases so that when the file is ran, the cases are automatically ran through and displays the results in the terminal. 
