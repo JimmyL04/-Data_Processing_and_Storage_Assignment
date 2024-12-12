@@ -22,8 +22,9 @@ Steps to Run
 Clone the repository or download the script.
 Save the script as in_memory_db.py.
 Open a terminal and navigate to the folder containing the script.
+
 Run the script: 
-python in_memory_db.py
+python3 data_processing.py  
 
 
 Improving This Assignment
